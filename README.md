@@ -1,15 +1,15 @@
 # Assignments, projects and papers (from Jan2023 - present)
 
-**Covering multiple aspects on:**
-1. Fundamentals of AI
+### Covering multiple aspects on
+1. **Fundamentals of AI**
    - NetworkX
    - Genetic Algorithms
    - Markov Decision Process
-2. Software Development in AI
+2. **Software Development in AI**
    - Unsupervised Learning
-3. Scientific Data Visualization
+3. **Scientific Data Visualization**
    - Interactive Visualizations in Python
-4. Feature Engineering
+4. **Feature Engineering**
    - Text
      - Summarization / TF-IDF
      - Binning
@@ -19,13 +19,13 @@
      - Histogram
      - Filters
      - Restore
-5. Machine Learning
+5. **Machine Learning**
    - Regression
    - Classification
    - Clustering
    - Model Evaluation
    - Project on Time Series Analysis
-6. Empirical Analysis
+6. **Empirical Analysis**
    - EDA
    - T-test
    - One-way Analysis of Variance (ANOVA)
@@ -35,12 +35,12 @@
    - Cross Validation
    - Visualization
    - Project on Loan Delinquencies
-7. Concept Papers
+7. **Concept Papers**
     - Scale Invariant Feature Transform (SIFT): variants and hybrid approaches
 
 
 
->Under Development
+> # Under Development
 
 **I Will be adding on Natural Language Processing and Deep Learning parts**
 
